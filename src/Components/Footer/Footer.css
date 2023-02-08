@@ -1,0 +1,18 @@
+
+footer{
+    background-color: rgb(0, 66, 0);
+    color: #ddd !important;
+    margin: auto;
+    padding: 6px;
+    margin-bottom: 15px;
+    text-align: center;
+    position: relative;
+    bottom: 15px;
+  }
+  .footer-elements{
+      color: white;
+      margin: 6px;
+      font-size: small;
+      margin-bottom: 20px;
+  }
+  
